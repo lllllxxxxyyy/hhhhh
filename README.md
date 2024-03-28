@@ -22,7 +22,7 @@
 联网的计算机一台  
 
 **软件环境：**  
-Windows or Linux  
+Windows  
 
 **实验步骤与内容：**
 
